@@ -1,3 +1,5 @@
+package solutions;
+
 public class second {
     public static void main(String[] args) {
         int currentFib = 3;

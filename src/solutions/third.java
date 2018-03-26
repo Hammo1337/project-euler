@@ -1,3 +1,5 @@
+package solutions;
+
 public class third {
     public static void main(String[] args) {
         long number = 600851475143l;
