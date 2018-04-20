@@ -30,9 +30,12 @@ public class EulerProject {
                 case 5:
                     Solution5 solution5 = new Solution5();
                     solution5.Solve();
-                  case 999:
-                      done = true;
-                      break;
+                case 6:
+                    Solution6 solution6 = new Solution6();
+                    solution6.Solve();
+                case 999:
+                    done = true;
+                    break;
             }
         }
 
