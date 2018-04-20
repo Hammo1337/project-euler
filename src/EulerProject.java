@@ -27,6 +27,9 @@ public class EulerProject {
                 case 4:
                     Solution4 solution4 = new Solution4();
                     solution4.Solve();
+                case 5:
+                    Solution5 solution5 = new Solution5();
+                    solution5.Solve();
                   case 999:
                       done = true;
                       break;
